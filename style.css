@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  width: 600px;
+  margin: 0px auto;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div {
+  text-align: center;
+  background: lightgray;
+  border-left: 6px solid rgb(145, 144, 144);
+  border-bottom: 4px solid rgb(145, 144, 144);
+  border-right: 2px solid rgb(145, 144, 144);
+  border-top: 2px solid rgb(145, 144, 144);
+  border-radius: 13px;
+  padding: 20px 25px;
+}
+
+#in-1 {
+  width: 400px;
+  padding: 15px;
+}
